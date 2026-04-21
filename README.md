@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raja Evian Aditya
 
-### 🚀 Minecraft Server Developer & Web Developer from Indonesia
+### 🚀 Minecraft Server Developer & Web Developer from Indonesia, North Sumatra
 
 [![GitHub followers](https://img.shields.io/github/followers/rajaevianaditya?label=Follow&style=social)](https://github.com/rajaevianaditya)
 [![Website](https://img.shields.io/badge/Portfolio-Visit%20Website-00d4aa?style=flat&logo=google-chrome)](https://rajaaditya.my.id)

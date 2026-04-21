@@ -60,8 +60,7 @@ I'm a passionate **Web Developer** and **Minecraft Server Developer** with over 
 ### 🌐 Web Development Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Portfolio Website** | Modern, responsive portfolio website with admin panel | PHP, MySQL, JavaScript, Bootstrap |
-| **CV Manager System** | Dynamic CV management system with CRUD operations | PHP, MySQL, AJAX |
+| **Portfolio Website** | Modern, responsive portfolio website with admin panel | PHP, MySQL, JavaScript |
 
 ---
 

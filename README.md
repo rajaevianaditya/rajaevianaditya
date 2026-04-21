@@ -86,30 +86,6 @@ I'm a passionate **Web Developer** and **Minecraft Server Developer** with over 
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajaevianaditya/rajaevianaditya/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajaevianaditya/rajaevianaditya/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajaevianaditya/rajaevianaditya/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔜 Coming Soon: "Building Scalable Minecraft Servers with Java"
-- 🔜 Coming Soon: "Modern PHP Development with Laravel"
-- 🔜 Coming Soon: "Web Performance Optimization Guide"
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💰 Support My Work
-
 <div align="center">
   
 ### 👀 Profile Views
@@ -118,6 +94,6 @@ I'm a passionate **Web Developer** and **Minecraft Server Developer** with over 
 
 ---
 
-⭐️ From [rajaevianaditya](https://github.com/rajaevianaditya)
+⭐️ From [rajaevianaditya](https://rajaaditya.my.id/)
 
 </div>

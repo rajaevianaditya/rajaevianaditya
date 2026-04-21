@@ -92,8 +92,4 @@ I'm a passionate **Web Developer** and **Minecraft Server Developer** with over 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rajaevianaditya&color=00d4aa&style=flat-square)
 
----
-
-⭐️ From [rajaevianaditya](https://rajaaditya.my.id/)
-
 </div>

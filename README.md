@@ -17,7 +17,6 @@ I'm a passionate **Web Developer** and **Minecraft Server Developer** with over 
 - 👯 I'm looking to collaborate on **Open Source Projects & Minecraft Plugins**
 - 💬 Ask me about **PHP, Java, Minecraft Development, or Web Technologies**
 - 📫 How to reach me: **rajaevianaditya25@gmail.com**
-- ⚡ Fun fact: **I can write Java plugins while listening to lo-fi music**
 
 ---
 

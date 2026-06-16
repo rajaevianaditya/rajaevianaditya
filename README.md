@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raja Evian Aditya
+# 👋 Hi, I'm Raja Evian Aditya a student at Muhammadiyah 10 Kisaran Vocational School
 
 ### 🚀 Minecraft Server Developer & Web Developer from Indonesia, North Sumatra
 

@@ -115,12 +115,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajaevianaditya&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Raja's GitHub stats" height="165" />
+  <img src="https://githubreadmestatsfast.vercel.app/api?username=rajaevianaditya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Raja's GitHub stats" height="165" />
   <img src="https://streak-stats.demolab.com/?user=rajaevianaditya&theme=radical&hide_border=true" alt="Raja's GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaevianaditya&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top languages" />
+  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=rajaevianaditya&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
 ---

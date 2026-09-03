@@ -107,14 +107,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajaevianaditya&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaevianaditya&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajaevianaditya&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</p>
-
 ---
 
 <p align="center">

@@ -3,7 +3,7 @@
 <p align="center">Building premium Minecraft plugins (RA- series) and full-stack web apps with Next.js, PHP & Prisma</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450" alt="coding vibe"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="mario coding"/>
 </p>
 
 <p align="center">
@@ -65,6 +65,12 @@
 
 ### 🛠️ Tech Stack
 
+<p align="center"><sub>⭐ Favorite language: <b>JavaScript</b></sub></p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="350" alt="javascript is the boss"/>
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css&theme=dark" alt="languages" /><br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,laravel,express&theme=dark" alt="frameworks" /><br/>
@@ -97,3 +103,7 @@
 </p>
 
 ---
+
+<p align="center">
+  <i>⭐ Thanks for stopping by — check out my plugins and let's build something great!</i>
+</p>

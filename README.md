@@ -3,7 +3,7 @@
 <p align="center">Building premium Minecraft plugins (RA- series) and full-stack web apps with Next.js, PHP & Prisma</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="mario coding"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="mario coding"/>
 </p>
 
 <p align="center">
@@ -68,11 +68,15 @@
 <p align="center"><sub>⭐ Favorite language: <b>JavaScript</b></sub></p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="350" alt="javascript is the boss"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500" alt="javascript is the boss"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css&theme=dark" alt="languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="javascript" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,ts,html,css&theme=dark" alt="languages" /><br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,laravel,express&theme=dark" alt="frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,prisma,redis&theme=dark" alt="databases" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode&theme=dark" alt="tools" />

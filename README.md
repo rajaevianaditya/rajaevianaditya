@@ -17,9 +17,9 @@
 - 🎮 I build & sell premium Minecraft plugins under the **RA-** brand
 - 🌐 Freelance full-stack web developer (Next.js, PHP, MySQL, Prisma)
 - 🏗️ Currently building out **Arden Network**, a full Minecraft server ecosystem (store, Discord bot, custom plugins)
-- 🎓 Studying at **[Nama Sekolah/Kampus]**
-- 🎂 Born **[DD Month YYYY]**
-- 📫 Reach me at **[email/contact link]**
+- 🎓 Studying at **Muhammadiyah 10 Vocational High School, Kisaran**
+- 🎂 Born **21 June 2026**
+- 📫 Reach me at **rajaevianaditya25@gmail.com**
 
 ---
 
@@ -30,6 +30,7 @@
   <a href="https://plugins.rajaaditya.my.id"><img alt="Plugin Store" src="https://img.shields.io/badge/-Plugin%20Store-1f6feb?style=for-the-badge&logo=shopify&logoColor=white"></a>
   <a href="https://docs.rajaaditya.my.id/"><img alt="Documentation" src="https://img.shields.io/badge/-Docs-1a1a1a?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
   <a href="https://www.instagram.com/rjjaaditya/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-1f6feb?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:rajaevianaditya25@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -95,10 +96,4 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajaevianaditya&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-<p align="center">
-  <i>⭐ Thanks for stopping by — check out my plugins and let's build something great!</i>
 </p>

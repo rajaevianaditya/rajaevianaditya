@@ -3,8 +3,12 @@
 <p align="center">Building premium Minecraft plugins (RA- series) and full-stack web apps with Next.js, PHP & Prisma</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajaevianaditya&style=flat-square&color=e4405f" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/rajaevianaditya?style=flat-square&color=e4405f" alt="GitHub followers" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450" alt="coding vibe"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajaevianaditya&style=flat-square&color=1f6feb" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rajaevianaditya?style=flat-square&color=1f6feb" alt="GitHub followers" />
 </p>
 
 ---
@@ -24,9 +28,9 @@
 
 <p align="center">
   <a href="https://rajaaditya.my.id"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://plugins.rajaaditya.my.id"><img alt="Plugin Store" src="https://img.shields.io/badge/-Plugin%20Store-e4405f?style=for-the-badge&logo=shopify&logoColor=white"></a>
+  <a href="https://plugins.rajaaditya.my.id"><img alt="Plugin Store" src="https://img.shields.io/badge/-Plugin%20Store-1f6feb?style=for-the-badge&logo=shopify&logoColor=white"></a>
   <a href="https://docs.rajaaditya.my.id/"><img alt="Documentation" src="https://img.shields.io/badge/-Docs-1a1a1a?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
-  <a href="https://www.instagram.com/rjjaaditya/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/rjjaaditya/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-1f6feb?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -84,16 +88,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=rajaevianaditya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Raja's GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=rajaevianaditya&theme=radical&hide_border=true" alt="Raja's GitHub streak" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=rajaevianaditya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Raja's GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=rajaevianaditya&theme=tokyonight&hide_border=true" alt="Raja's GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajaevianaditya&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajaevianaditya&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
-
-<p align="center">
-  <i>⭐ Thanks for stopping by — check out my plugins and let's build something great!</i>
-</p>

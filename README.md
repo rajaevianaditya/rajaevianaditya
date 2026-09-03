@@ -1,10 +1,17 @@
-<h1 align="center">Hi, I'm Raja Evian Aditya 🚀</h1>
-<h3 align="center">Minecraft Plugin Developer • Full-Stack Web Developer</h3>
-<h4 align="center">Building premium Minecraft plugins (RA- series) and full-stack web apps with Next.js, PHP & Prisma</h4>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Raja%20Evian%20Aditya&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Minecraft%20Plugin%20Developer%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" alt="header banner"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+premium+RA-+Minecraft+plugins;Full-stack+dev+with+Next.js+%26+Prisma;Running+the+Arden+Network+ecosystem&font=Fira+Code&center=true&width=550&height=40&duration=3000&pause=1000&color=E4405F&vCenter=true&size=20" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajaevianaditya&style=flat-square&color=blueviolet" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/rajaevianaditya?style=flat-square&color=blueviolet" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/status-actively%20building-success?style=flat-square" alt="status" />
 </p>
 
 ---
@@ -17,6 +24,14 @@
 - 🎓 Studying at **[Nama Sekolah/Kampus]**
 - 🎂 Born **[DD Month YYYY]**
 - 📫 Reach me at **[email/contact link]**
+
+<div align="center">
+
+| 🧩 Plugin Ecosystem | 🌐 Web Platform | 🖥️ Server |
+|:---:|:---:|:---:|
+| RA- series plugins (Java/Paper) | Next.js + Prisma + MySQL | Arden Network |
+
+</div>
 
 ---
 
@@ -61,45 +76,14 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css&theme=dark" alt="languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,laravel,express&theme=dark" alt="frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,prisma,redis&theme=dark" alt="databases" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode&theme=dark" alt="tools" />
+</p>
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Runtime**
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database & ORM**
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Minecraft Ecosystem**
-
-![Paper](https://img.shields.io/badge/-Paper/Spigot-2D2D2D?style=for-the-badge&logo=minecraft&logoColor=white)
-![Velocity](https://img.shields.io/badge/-Velocity-2D2D2D?style=for-the-badge&logo=minecraft&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Geyser](https://img.shields.io/badge/-Geyser/Floodgate-00A2FF?style=for-the-badge&logo=minecraft&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center"><sub>Minecraft ecosystem: <b>Paper/Spigot</b> · <b>Velocity</b> · <b>Maven</b> · <b>Geyser/Floodgate</b></sub></p>
 
 ---
 
@@ -123,8 +107,18 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajaevianaditya&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaevianaditya&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajaevianaditya&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</p>
+
 ---
 
 <p align="center">
   <i>⭐ Thanks for stopping by — check out my plugins and let's build something great!</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" alt="footer wave"/>

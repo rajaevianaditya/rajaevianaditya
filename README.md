@@ -116,7 +116,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajaevianaditya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Raja's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajaevianaditya&theme=radical&hide_border=true" alt="Raja's GitHub streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=rajaevianaditya&theme=radical&hide_border=true" alt="Raja's GitHub streak" height="165" />
 </p>
 
 <p align="center">

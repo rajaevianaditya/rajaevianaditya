@@ -68,15 +68,10 @@
 <p align="center"><sub>⭐ Favorite language: <b>JavaScript</b></sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="javascript" height="70" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,ts,html,css&theme=dark" alt="languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css&theme=dark" alt="languages" /><br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,laravel,express&theme=dark" alt="frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,prisma,redis&theme=dark" alt="databases" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode&theme=dark" alt="tools" />
-</p>
 </p>
 
 <p align="center"><sub>Minecraft ecosystem: <b>Paper/Spigot</b> · <b>Velocity</b> · <b>Maven</b> · <b>Geyser/Floodgate</b></sub></p>

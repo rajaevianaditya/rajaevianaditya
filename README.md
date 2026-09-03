@@ -115,16 +115,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajaevianaditya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Raja's GitHub stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajaevianaditya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Raja's GitHub stats" height="165" />
   <img src="https://streak-stats.demolab.com/?user=rajaevianaditya&theme=radical&hide_border=true" alt="Raja's GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaevianaditya&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajaevianaditya&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaevianaditya&theme=react-dark&hide_border=true" alt="Contribution graph" width="100%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=rajaevianaditya&theme=react-dark&hide_border=true" alt="Contribution graph" width="100%" />
 </p>
 
 ---
